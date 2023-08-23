@@ -16,3 +16,4 @@ const randomString = stringArray => {
     return stringArray[randomNumber];
 }
 
+console.log(randomString(codingQuotes));
