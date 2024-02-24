@@ -5,7 +5,8 @@ const codingQuotes = ['Coding like poetry should be short and concise. - Santosh
     'Code is like humor. When you have to explain it, it’\s bad. – Cory House',
     'Make it work, make it right, make it fast. – Kent Beck',
     'Clean code always looks like it was written by someone who cares. — Robert C. Martin',
-    'Of course, bad code can be cleaned up. But it’\s very expensive. — Robert C. Martin'
+    'Of course, bad code can be cleaned up. But it’\s very expensive. — Robert C. Martin',
+    'Any fool can write code that a computer can understand. Good programmers write code that humans can understand.'
 
 ];
 
@@ -17,3 +18,5 @@ const randomString = stringArray => {
 }
 
 console.log(randomString(codingQuotes));
+
+
