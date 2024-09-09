@@ -14,7 +14,7 @@ cd Mixed_Messages
 ```
 3. Run the program with Node.js
 ```bash
-node index.js
+node app.js
 ```
 
 ## Example Output
